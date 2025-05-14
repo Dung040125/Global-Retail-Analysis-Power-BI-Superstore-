@@ -154,5 +154,5 @@ Below is a summary of key actionable insights and recommendations derived from t
 ---
 ## Project Deliverables
 The complete project deliverables are available in a Google Drive folder, including:
-1.  **Design Thinking Excel File:** Documenting the design thinking process, including detailed insights and recommendations [View File](https://github.com/Dung040125/Superstore-Sales/blob/main/Design%20Thinking.xlsx)
-2.  **Power BI Dashboard (`.pbix` file):** [View Dashboard](https://github.com/Dung040125/Superstore-Sales/blob/main/Project%202.pbix)
+1.  **Design Thinking Excel File:** Documenting the design thinking process, including detailed insights and recommendations [View File](https://github.com/Dung040125/Superstore-Sales/raw/main/Design%20Thinking.xlsx)
+2.  **Power BI Dashboard (`.pbix` file):** [View Dashboard](https://github.com/Dung040125/Superstore-Sales/raw/main/Project%202.pbix)
