@@ -41,7 +41,10 @@ Superstore requires a visual tool for Senior Management to grasp the business si
     -   Applied Design Thinking methodology to deeply understand stakeholder (Senior Management) needs and current challenges.
     -   Identified key business questions and critical Key Performance Indicators (KPIs) to track.
     -   The entire Design Thinking process and its outcomes are documented in detail in the Excel file included in the project deliverables.
+
 Stage 1: Empathize
+
+
 ![image](https://github.com/user-attachments/assets/3dbb6bf5-a117-4de4-8bbf-55d8a558147d)
 
 ![image](https://github.com/user-attachments/assets/0559cccd-44f8-41eb-8e44-f8f47784feb7)
@@ -53,6 +56,8 @@ Stage 1: Empathize
 
 
 Stage 2: Define POV
+
+
 ![image](https://github.com/user-attachments/assets/4b22e569-22d6-44c5-833b-621572e55e2b)
 
 ![image](https://github.com/user-attachments/assets/188c3692-5cae-4318-8a04-93e63b0e5180)
@@ -63,6 +68,7 @@ Stage 2: Define POV
 
 
 Stage 3: Ideate
+
 ![image](https://github.com/user-attachments/assets/e4a7dbb9-64e7-4421-9d8e-768585f5b2c6)
 
 ![image](https://github.com/user-attachments/assets/8cb30af8-699d-451f-8421-2c9712a335e2)
@@ -71,7 +77,8 @@ Stage 3: Ideate
 
 
 
-Stage 4: Prototype and Review													
+Stage 4: Prototype and Review	
+
 ![image](https://github.com/user-attachments/assets/db689fd2-a5c9-4aec-ae7c-5d908a1741ed)
 
 
