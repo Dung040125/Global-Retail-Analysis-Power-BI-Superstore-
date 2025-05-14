@@ -44,14 +44,30 @@ Superstore requires a visual tool for Senior Management to grasp the business si
 Stage 1: Empathize
 ![image](https://github.com/user-attachments/assets/b72aef59-d174-4442-ac09-b7aef6052ec3)
 
+
+
+
+
 Stage 2: Define POV
 ![image](https://github.com/user-attachments/assets/7758c0a5-bc0a-4008-bebe-9d63ea74381d)
+
+
+
+
 
 Stage 3: Ideate
 ![image](https://github.com/user-attachments/assets/e9b0c3c8-7e06-4c46-b111-f0f8f7335d45)
 
+
+
+
+
 Stage 4: Prototype and Review													
 ![image](https://github.com/user-attachments/assets/3599454d-30d8-40d8-b9d8-64cfd6bf0328)
+
+
+
+
 
 
 -   **Dashboard Development:**
