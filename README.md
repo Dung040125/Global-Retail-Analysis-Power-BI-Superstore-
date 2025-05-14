@@ -42,7 +42,7 @@ Superstore requires a visual tool for Senior Management to grasp the business si
     -   Identified key business questions and critical Key Performance Indicators (KPIs) to track.
     -   The entire Design Thinking process and its outcomes are documented in detail in the Excel file included in the project deliverables.
 
-Stage 1: Empathize
+**Stage 1: Empathize**
 
 
 ![image](https://github.com/user-attachments/assets/3dbb6bf5-a117-4de4-8bbf-55d8a558147d)
@@ -55,7 +55,7 @@ Stage 1: Empathize
 
 
 
-Stage 2: Define POV
+**Stage 2: Define POV**
 
 
 ![image](https://github.com/user-attachments/assets/4b22e569-22d6-44c5-833b-621572e55e2b)
@@ -67,7 +67,7 @@ Stage 2: Define POV
 
 
 
-Stage 3: Ideate
+**Stage 3: Ideate**
 
 ![image](https://github.com/user-attachments/assets/e4a7dbb9-64e7-4421-9d8e-768585f5b2c6)
 
@@ -77,7 +77,7 @@ Stage 3: Ideate
 
 
 
-Stage 4: Prototype and Review	
+**Stage 4: Prototype and Review**
 
 ![image](https://github.com/user-attachments/assets/db689fd2-a5c9-4aec-ae7c-5d908a1741ed)
 
