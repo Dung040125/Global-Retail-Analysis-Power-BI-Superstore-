@@ -100,6 +100,7 @@ The dashboard consists of four interactive pages, each focusing on a specific as
 ### Business Performance Overview
 Provides a high-level summary of key business metrics, sales trends, and regional revenue contributions.
 *   **Key Visuals:** KPIs (Total Sales, Avg. Orders/Customer, Return Rate, Avg. Revenue/Order), Total Sales and Sales Growth YoY trend, Top 3 Region Revenue, Top 5 Products with Highest Sales, Return Rate (%) overtime.
+
 ![image](https://github.com/user-attachments/assets/d3dd2aa8-f196-478b-babc-75886e5846f7)
 
 
