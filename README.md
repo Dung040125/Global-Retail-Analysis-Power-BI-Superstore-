@@ -1,4 +1,7 @@
 # Superstore-Sales
+
+![image](https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113)
+
 Interactive Power BI dashboard analyzing Superstore's global sales data to provide actionable insights for strategic decision-making on market expansion and product performance.
 
 ---
