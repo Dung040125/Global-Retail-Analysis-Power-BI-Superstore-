@@ -71,7 +71,7 @@ The Superstore dataset consists of structured tables. For this analysis, a relat
 ---
 
 ## 🧠 Design Thinking Process
-This project applied **Design Thinking principles** to thoroughly understand stakeholder needs and define the dashboard's scope for strategic decision-making. *(Screenshots below illustrate key stages from the Design Thinking Excel workbook.)*
+This project applied **Design Thinking principles** to thoroughly understand stakeholder needs and define the dashboard's scope for strategic decision-making. 
 
 1️⃣ **Empathize:** Understood Senior Management's challenges in viewing sales performance and their objectives for market expansion and product strategy.
 <p align="center">
