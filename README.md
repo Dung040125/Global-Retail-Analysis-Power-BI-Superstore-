@@ -1,7 +1,7 @@
 # 📊 **Project Title:** Superstore Sales Performance Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="700">
+  <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="1100">
 </p>
 
 * **Author:** Nguyen Thi Thuy Dung
