@@ -1,7 +1,7 @@
 # 📊 **Project Title:** Superstore Sales Performance Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="1100">
+  <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="700">
 </p>
 
 * **Author:** Nguyen Thi Thuy Dung
@@ -61,17 +61,17 @@ This dashboard addresses critical questions such as:
 
 📌 **Data Source**
 *   **Source:** Superstore sample dataset (simulating global sales data).
-*   **Content:** Comprises three main data tables: `Orders`, `People` and `Returns`.
+*   **Content:** Comprises three main data tables: `Orders` (transaction details), `People` (regional personnel information), and `Returns` (returned transactions).
 *   **Time Period Analyzed:** 2011 - 2014.
 *   **Format:** Typically Excel (`.xlsx`) or CSV (`.csv`) files.
 
 📊 **Data Structure & Relationships**
-The Superstore dataset consists of structured tables. For this analysis, a relational data model was built in Power BI to connect the `Orders`, `People`, and `Returns` tables, enabling comprehensive analysis across different facets of the sales data. Key relationships were established primarily using `Order ID` (to link `Orders` and `Returns`) and `Region` (to potentially link sales data with personnel).
+The Superstore dataset consists of structured tables. For this analysis, a relational data model was built in Power BI to connect the `Orders`, `People`, and `Returns` tables, enabling comprehensive analysis. Key relationships were established primarily using `Order ID` (to link `Orders` and `Returns`) and `Region` (to potentially link sales data with personnel).
 
 ---
 
 ## 🧠 Design Thinking Process
-This project applied **Design Thinking principles** to thoroughly understand stakeholder needs and define the dashboard's scope for strategic decision-making. 
+This project applied **Design Thinking principles** to thoroughly understand stakeholder needs and define the dashboard's scope for strategic decision-making. *(Screenshots below illustrate key stages from the Design Thinking Excel workbook.)*
 
 1️⃣ **Empathize:** Understood Senior Management's challenges in viewing sales performance and their objectives for market expansion and product strategy.
 <p align="center">
@@ -116,7 +116,7 @@ This project applied **Design Thinking principles** to thoroughly understand sta
 *   Connected to Superstore source files (Orders, People, Returns) in Power BI.
 *   Cleaned and transformed data using **Power Query Editor** (handled missing values, standardized data types).
 *   Built a relational data model, establishing table relationships.
-*   Created essential **DAX measures** and calculated columns for key metrics (e.g., `Return Rate %`, `Sales Growth YoY`).
+*   Created essential **DAX measures** and calculated columns for key metrics (e.g., `Return Rate %`, `Sales Growth YoY`, `Total Sales`).
 
 ### 2️⃣ Power BI Visualization & Dashboarding
 Developed a multi-page interactive dashboard in Power BI focusing on clear data presentation for strategic decision-making.
@@ -135,10 +135,10 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 </p>
 
 📌 **Analysis & Insights:**
-*   **Overall Performance:** The dashboard reveals **Total Sales of 12.64M** and an Average Revenue/Order of 504.15, indicating a healthy average transaction value. However, the **Sales Growth YoY trend shows significant volatility**, with a notable slowdown and dip into negative growth in early 2013 before a slight recovery. This highlights a need for deeper investigation into factors causing these fluctuations.
-*   **Regional Contributions:** The **Central region is a major revenue contributor**, particularly from the Consumer segment. However, this region also shows signs of slowing growth, warranting closer attention.
-*   **Return Rate:** An overall low **Return Rate of 2.3%** is positive, but the "Return Rate (%) overtime" visual shows occasional spikes (e.g., early 2012), suggesting periods of potential product quality or customer dissatisfaction issues that need to be managed.
-*   **Recommendations:** Investigate root causes of YoY growth volatility and the slowdown in the Central region. Implement proactive measures to address and prevent spikes in return rates.
+*   **Overall Performance:** The dashboard reveals **Total Sales of 12.64M** and an Average Revenue/Order of 504.15. However, **Sales Growth YoY trend shows significant volatility**, with a notable slowdown in early 2013.
+*   **Regional Contributions:** The **Central region is a major revenue contributor** but shows signs of slowing growth.
+*   **Return Rate:** An overall low **Return Rate of 2.3%** is positive, but overtime visuals show occasional spikes.
+*   **Recommendations:** Investigate causes of YoY growth volatility and Central region's slowdown. Address return rate spikes proactively.
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
@@ -146,10 +146,10 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 </p>
 
 📌 **Analysis & Insights:**
-*   **Revenue vs. Profitability:** A key insight is the distinction between top revenue-generating products (e.g., Apple Smart Phone) and the **most profitable products (e.g., Canon ImageCLASS leads)**. This suggests that a strategy focused solely on sales volume might not maximize overall profitability.
-*   **Category Performance:** The **Technology category drives high sales but also exhibits a high return rate (~11%)**, indicating a trade-off between revenue and operational risk. Office Supplies, while lower in sales, tend to have lower return rates.
-*   **Sales Consistency:** Some products (e.g., Canon, Cisco Tel...) show more consistent sales, crucial for stable revenue forecasting, while others (e.g., 3D Systems) are more volatile.
-*   **Recommendations:** Prioritize marketing and sales efforts for high-profit products. Develop strategies to mitigate high return rates in the Technology category (e.g., improved product information, quality checks). Balance the product portfolio by nurturing consistent performers alongside high-growth/high-risk items.
+*   **Revenue vs. Profitability:** Key distinction between top revenue-generating products (e.g., Apple Smart Phone) and **most profitable ones (e.g., Canon ImageCLASS)**.
+*   **Category Performance:** **Technology category drives high sales but also has a high return rate (~11%)**. Office Supplies are safer with lower returns but lower sales.
+*   **Sales Consistency:** Some products show more consistent sales, crucial for stable revenue forecasting.
+*   **Recommendations:** Prioritize high-profit products. Mitigate high return rates in Technology. Balance portfolio with consistent performers and high-growth items.
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
@@ -157,10 +157,10 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 </p>
 
 📌 **Analysis & Insights:**
-*   **Regional Growth Dynamics:** The Central region, despite high revenue, is experiencing negative sales growth, indicating market saturation or increased competition. Conversely, **Oceania shows positive sales growth** albeit from a smaller revenue base, and **North Asia emerges as a high-potential market** with good growth.
-*   **Revenue Share by Category:** Revenue share for categories like Technology, Furniture, and Office Supplies varies significantly by region, suggesting differing market demands or competitive landscapes.
-*   **Product Distribution:** The quantity-based product distribution highlights that different product categories dominate order volumes in specific regions (e.g., Office Supplies in EMEA, Africa).
-*   **Recommendations:** Implement strategies to retain market share in large but slowing markets like Central. Allocate resources to capitalize on growth in Oceania and North Asia. Tailor product assortment and marketing campaigns to specific regional demands and category strengths.
+*   **Regional Growth Dynamics:** Central region, despite high revenue, shows negative sales growth. **Oceania and North Asia emerge as high-potential growth markets**.
+*   **Revenue Share by Category:** Varies significantly by region, suggesting differing market demands.
+*   **Product Distribution:** Quantity-based distribution highlights regional product preferences.
+*   **Recommendations:** Retain market share in large, slowing markets. Invest in growth markets (Oceania, North Asia). Tailor regional product assortment and marketing.
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
@@ -168,41 +168,43 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 </p>
 
 📌 **Analysis & Insights:**
-*   **High-Risk Categories:** The **Furniture category has the highest return rate (11.87%)**, posing a significant operational challenge despite not being the top sales category. The Technology category also shows high returns.
-*   **Financial Impact of Returns:** High-value items (e.g., Cisco TelePresence, Canon ImageCLASS), even if not returned frequently, have a substantial financial impact per return, affecting overall profitability.
-*   **Frequently Returned Products:** Lower-value items like "Staples" are frequently returned, leading to increased processing and reverse logistics costs.
-*   **Return Trends:** While the overall monthly return rate trend shows a decrease since 2012, continuous fluctuations indicate ongoing underlying issues.
-*   **Recommendations:** Prioritize addressing returns for products with high financial impact. Analyze root causes for frequently returned low-value items (e.g., incorrect orders, quality issues). Implement targeted strategies to reduce return rates in high-risk categories like Furniture and Technology.
+*   **High-Risk Categories:** **Furniture category has the highest return rate (11.87%)**. Technology also shows high returns.
+*   **Financial Impact of Returns:** High-value items (e.g., Cisco, Canon) have substantial financial impact per return.
+*   **Frequently Returned Products:** Low-value items like "Staples" incur operational costs due to frequent returns.
+*   **Recommendations:** Prioritize addressing returns for high financial impact items. Analyze root causes for frequently returned items. Implement targeted strategies for high-risk categories.
+
 ---
 
 ## 🔎 Final Conclusion & Recommendations
-👉🏻 Based on the dashboard analysis, Superstore's Senior Management should consider:
+👉🏻 Based on the comprehensive analysis facilitated by the Power BI dashboards, Superstore's Senior Management should consider the following strategic actions for enhanced operational control and cost-efficiency:
 
-📌 **Key Takeaways:**
-*   ✔️ **Strategic Market Focus:** Invest in high-potential markets (Oceania, North Asia) and rejuvenate growth in established regions (Central).
-*   ✔️ **Product Portfolio Optimization:** Prioritize high-profitability products and manage returns in high-risk categories.
-*   ✔️ **Enhanced Customer Experience:** Tailor regional product assortments and marketing.
-*   ✔️ **Operational Risk Management:** Actively manage product returns by addressing root causes.
-*   ✔️ **Continuous Data-Driven Improvement:** Regularly use the dashboard for performance monitoring and agile decisions.
+📌 **Key Takeaways & Actionable Recommendations:**
+*   ✔️ **Strategic Market Focus:** Invest in high-potential markets like **Oceania and North Asia** while developing strategies to rejuvenate growth in established but slowing regions like **Central**. This involves tailored marketing and potentially differentiated product offerings.
+*   ✔️ **Product Portfolio Optimization:** Prioritize and promote **high-profitability products** (e.g., Canon ImageCLASS). Implement targeted measures to reduce return rates in high-risk, high-sales categories such as **Technology and Furniture** (e.g., clearer product descriptions, improved packaging, or post-purchase support).
+*   ✔️ **Enhanced Customer Experience & Regional Tailoring:** Leverage insights on regional product preferences and customer behavior (from market potential and product distribution visuals) to **tailor product assortments and marketing campaigns** for specific regions, potentially increasing sales and customer satisfaction.
+*   ✔️ **Operational Risk Management & Efficiency:** Actively manage product returns by addressing root causes for both **high-financial-impact returns** (e.g., Cisco products) and **frequently returned low-value items** (e.g., Staples) to reduce operational overhead and protect margins.
+*   ✔️ **Continuous Data-Driven Improvement:** Regularly utilize the developed dashboards to **monitor key performance indicators (KPIs)**, identify new trends or anomalies, and make agile, informed business decisions to adapt to changing market conditions.
 
 ---
 
 ## 🚀 Usage Instructions
 *   Open the `.pbix` file using **Microsoft Power BI Desktop**.
-*   Interact with Slicers and use cross-filtering; hover for tooltips.
+*   Interact with the dashboard using **Slicers** (e.g., for `Date`, `Region`, `Category`) and by clicking on visual elements for **cross-filtering**.
+*   Hover over visuals to view detailed **tooltips**.
 
 ---
 
 ## 📂 Project Deliverables
 1.  **Power BI Dashboard (`.pbix` file):** [View Dashboard](https://github.com/Dung040125/Superstore-Sales/raw/main/Project%202.pbix)
-2.  **Design Thinking Excel File:** Documents the user-centric design process. [View file](https://github.com/Dung040125/Superstore-Sales/raw/main/Design%20Thinking.xlsx)
+2.  **Design Thinking Excel File:** Documents the user-centric design process, detailed analysis, and initial recommendations. [View file](https://github.com/Dung040125/Superstore-Sales/raw/main/Design%20Thinking.xlsx)
+3.  **This README.md file:** Provides a comprehensive overview of the project.
 
 ---
 ## 💡 Design Discussions and Decisions
-
 Key interpretations and design choices for this project included:
-*   **Focus on Strategic KPIs:** Prioritized metrics for market expansion and product strategy relevant to Senior Management.
-*   **User-Centric Dashboard Flow:** Organized insights into four distinct dashboard pages for targeted analysis.
-*   **Data Storytelling through Visuals:** Selected chart types to clearly convey complex sales performance data.
+*   **Focus on Strategic KPIs for Senior Management:** Prioritized metrics directly relevant to market expansion strategies, product performance evaluation, and overall business health.
+*   **User-Centric Dashboard Navigation:** Organized insights into four distinct and intuitively named dashboard pages (`Business Performance Overview`, `Product Performance & Strategic Selection`, `Market Potential & Revenue Share`, `Return Rate & Operational Risk`) for targeted and clear analysis pathways.
+*   **Emphasis on Visual Storytelling:** Selected chart types (e.g., YoY trends, treemaps for category revenue, bubble charts for market opportunities) specifically to convey complex sales performance data and relationships in an accessible manner for executive review.
+*   **Iterative Design Based on Assumed Needs:** The dashboard structure and featured visualizations were developed iteratively, anticipating the core questions and analytical requirements of a typical senior management team in an e-commerce context.
 
-*(Further details are documented in the Design Thinking Excel File.)*
+*(Further details supporting these decisions are documented in the Design Thinking Excel File.)*
