@@ -1,12 +1,12 @@
 # 📊 **Project Title:** Superstore Sales Performance Dashboard
 
-**Author:** Nguyen Thi Thuy Dung
-**Date:** 2025-04
-**Tools Used:** Microsoft Power BI, DAX, Excel (for Design Thinking)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="1100">
 </p>
+
+**Author:** Nguyen Thi Thuy Dung
+**Date:** 2025-04
+**Tools Used:** Microsoft Power BI, DAX, Excel (for Design Thinking)
 
 ---
 
