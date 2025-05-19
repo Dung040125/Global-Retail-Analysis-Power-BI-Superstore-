@@ -1,4 +1,4 @@
-# 📊 **Project Title:** Superstore Sales Performance Dashboard
+# 📊 **Project Title:** Global Retail Sales Dashboard (Power BI – Superstore)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="1100">
