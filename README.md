@@ -142,7 +142,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3762477-d117-4f88-a5a4-47cb278b9db5" alt="Product Performance & Strategic Selection Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/a41168b9-726d-4329-8d7b-1d03a63db26f" alt="Product Performance & Strategic Selection Dashboard" width="700">
 </p>
 
 📌 **Analysis & Insights:**
@@ -153,7 +153,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1cc01d39-1da0-46c6-97ee-5bbaaf0a4cfc" alt="Market Potential & Revenue Share Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/f8744e14-2e8d-474b-8478-f5213e51e0db" alt="Market Potential & Revenue Share Dashboard" width="700">
 </p>
 
 📌 **Analysis & Insights:**
@@ -164,7 +164,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/91a27a50-e0d6-4628-a0c2-963f4de46d38" alt="Return Rate & Operational Risk Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/85cccd1d-9eb5-44f7-b375-c68cb21038f1" alt="Return Rate & Operational Risk Dashboard" width="700">
 </p>
 
 📌 **Analysis & Insights:**
