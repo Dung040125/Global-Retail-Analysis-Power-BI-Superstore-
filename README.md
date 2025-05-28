@@ -131,7 +131,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 1: Business Performance Overview**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/22eeaf3f-6eb6-4227-9c07-af4cd6d3b211" alt="Business Performance Overview Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/22eeaf3f-6eb6-4227-9c07-af4cd6d3b211" alt="Business Performance Overview Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -142,7 +142,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a41168b9-726d-4329-8d7b-1d03a63db26f" alt="Product Performance & Strategic Selection Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/a41168b9-726d-4329-8d7b-1d03a63db26f" alt="Product Performance & Strategic Selection Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -153,7 +153,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8744e14-2e8d-474b-8478-f5213e51e0db" alt="Market Potential & Revenue Share Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/f8744e14-2e8d-474b-8478-f5213e51e0db" alt="Market Potential & Revenue Share Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -164,7 +164,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85cccd1d-9eb5-44f7-b375-c68cb21038f1" alt="Return Rate & Operational Risk Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/85cccd1d-9eb5-44f7-b375-c68cb21038f1" alt="Return Rate & Operational Risk Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
