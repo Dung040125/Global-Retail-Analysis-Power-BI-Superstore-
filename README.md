@@ -164,7 +164,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85cccd1d-9eb5-44f7-b375-c68cb21038f1" alt="Return Rate & Operational Risk Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/7dbf5ef0-b0e7-483b-9613-c8c4ef2f73f7" alt="Return Rate & Operational Risk Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
