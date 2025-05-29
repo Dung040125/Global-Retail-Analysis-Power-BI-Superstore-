@@ -90,7 +90,7 @@ This project applied **Design Thinking principles** to thoroughly understand sta
   <img src="https://github.com/user-attachments/assets/104cbb88-042a-422c-92fe-cf604ee76b82" alt="Design Thinking: Define - User Needs Superstore" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1da0783f-9664-4eae-939c-65e46a7bb9c6" alt="Design Thinking: Define - User Needs Superstore" width="900">
+  <img src="https://github.com/user-attachments/assets/1da0783f-9664-4eae-939c-65e46a7bb9c6" alt="Design Thinking: Define - User Needs Superstore" width="700">
 </p>
 
 3️⃣ **Ideate:** Brainstormed relevant KPIs, effective visualizations, and user-friendly dashboard layouts.
