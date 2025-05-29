@@ -11,15 +11,15 @@
 ---
 
 ## 📑 Table of Contents
-[📌 Background & Overview](#-background--overview)
-[📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
-[🧠 Design Thinking Process](#-design-thinking-process)
-[⚒️ Main Process: Data Preparation & Dashboard Development](#️-main-process-data-preparation--dashboard-development)
-[📊 Key Insights & Visualizations (Dashboard Pages)](#-key-insights--visualizations-dashboard-pages)
-[🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
-[🚀 Usage Instructions](#-usage-instructions)
-[📂 Project Deliverables](#-project-deliverables)
-[💡 Design Discussions and Decisions](#-design-discussions-and-decisions)
+* [📌 Background & Overview](#-background--overview)
+* [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
+* [🧠 Design Thinking Process](#-design-thinking-process)
+* [⚒️ Main Process: Data Preparation & Dashboard Development](#️-main-process-data-preparation--dashboard-development)
+* [📊 Key Insights & Visualizations (Dashboard Pages)](#-key-insights--visualizations-dashboard-pages)
+* [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+* [🚀 Usage Instructions](#-usage-instructions)
+* [📂 Project Deliverables](#-project-deliverables)
+* [💡 Design Discussions and Decisions](#-design-discussions-and-decisions)
 
 ---
 
