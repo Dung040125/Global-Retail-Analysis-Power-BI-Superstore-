@@ -58,7 +58,7 @@ This project analyzes Superstore's sales data to:
 *   **Format:** Typically Excel (`.xlsx`) or CSV (`.csv`) files.
 
 📊 **Data Structure & Relationships**
-The data model consists of three tables: the `Orders` fact table, and two dimension tables, `Returns` and `People`.
+The data model consists of three tables: the `Orders` fact table and two dimension tables: `Returns` and `People`.
 
 ---
 
