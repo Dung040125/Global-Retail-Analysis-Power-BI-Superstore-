@@ -58,7 +58,7 @@ This project analyzes Superstore's sales data to:
 *   **Format:** Typically Excel (`.xlsx`) or CSV (`.csv`) files.
 
 📊 **Data Structure & Relationships**
-The Superstore dataset consists of structured tables. For this analysis, a relational data model was built in Power BI to connect the `Orders`, `People`, and `Returns` tables, enabling comprehensive analysis. Key relationships were established primarily using `Order ID` (to link `Orders` and `Returns`) and `Region` (to potentially link sales data with personnel).
+The data model consists of three tables: the `Orders` fact table, and two dimension tables, `Returns` and `People`.
 
 ---
 
