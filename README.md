@@ -1,4 +1,4 @@
-# 📊 Global Retail Analysis - Power BI
+![image](https://github.com/user-attachments/assets/f47f7357-e0fc-48ab-9bf4-1e942af5c8ae)# 📊 Global Retail Analysis - Power BI
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="1100">
@@ -76,18 +76,21 @@ This project applied **Design Thinking principles** to thoroughly understand sta
   <img src="https://github.com/user-attachments/assets/07e7e3ec-685e-46d9-ade2-7b338ce7567f" alt="Design Thinking: Empathize - Journey Map Superstore" width="450">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60b6c305-76d4-457a-9bf7-fc6b6c304a92" alt="Design Thinking: Empathize - Journey Map Superstore" width="500">
+  <img src="https://github.com/user-attachments/assets/60b6c305-76d4-457a-9bf7-fc6b6c304a92" alt="Design Thinking: Empathize - Journey Map Superstore" width="450">
 </p>
 
 2️⃣ **Define (Point of View):** Articulated the core problem: Need for an interactive dashboard to track sales, identify trends, and make data-driven strategic decisions.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b22e569-22d6-44c5-833b-621572e55e2b" alt="Design Thinking: Define - POV Superstore" width="700">
+  <img src="https://github.com/user-attachments/assets/4e8837b2-9995-4411-bc03-17f44e451dd5" alt="Design Thinking: Define - POV Superstore" width="700">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/188c3692-5cae-4318-8a04-93e63b0e5180" alt="Design Thinking: Define - HMW Questions Superstore" width="700">
+  <img src="https://github.com/user-attachments/assets/4da45d16-db8f-4dbe-accd-7af4da960752" alt="Design Thinking: Define - HMW Questions Superstore" width="500">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4f9da449-f490-4592-bded-b433adf3a31d" alt="Design Thinking: Define - User Needs Superstore" width="700">
+  <img src="https://github.com/user-attachments/assets/104cbb88-042a-422c-92fe-cf604ee76b82" alt="Design Thinking: Define - User Needs Superstore" width="700">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c659aec-b9e7-48e3-ab0f-17a0470cb0f3" alt="Design Thinking: Define - User Needs Superstore" width="700">
 </p>
 
 3️⃣ **Ideate:** Brainstormed relevant KPIs, effective visualizations, and user-friendly dashboard layouts.
