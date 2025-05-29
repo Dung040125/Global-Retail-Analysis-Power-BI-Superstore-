@@ -31,23 +31,15 @@
 The primary objective is to provide **Senior Management** with crucial business insights, thereby supporting **strategic decisions related to market expansion and key product selection**. The dashboard focuses on delivering a clear understanding of sales performance, product profitability, market potential, and risks associated with product returns.
 
 This project analyzes Superstore's sales data to:
-*   ✔️ Understand overall **business health** and sales trends.
-*   ✔️ Evaluate **product performance** and guide strategic selection.
-*   ✔️ Identify **market potential** and optimize revenue share.
-*   ✔️ Assess **operational risks** by analyzing return rates.
+- **Understand overall business health and sales trends** by examining sales patterns and Year-over-Year (YoY) growth.
+- **Evaluate product performance to guide strategic selection,** by identifying top-performing products (by sales and profitability) and pinpointing those with high return rates.
+- **Identify market potential and optimizing revenue share** by analyzing regional/category performance and uncovering untapped growth opportunities.
+- **Assess operational risks** by analyzing product and category-specific return rates.
 
 👤 **Who is this project for?**
 *   Senior Management & Decision-Makers at Superstore
 *   Sales & Marketing Strategists
 *   Business Analysts & Data Analysts.
-
-❓ **Business Questions:**
-This dashboard addresses critical questions such as:
-*   What are the overall sales trends and YoY growth?
-*   Which regions and product categories drive revenue and profit?
-*   What are our top-performing products by sales and profitability?
-*   Are there products/categories with high return rates?
-*   Where are untapped market potentials for growth?
 
 🎯 **Project Outcome:**
 *   **Comprehensive Performance Overview:** Visualized total sales (12.64M), order metrics, and return rates, highlighting YoY growth volatility.
