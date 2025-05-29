@@ -1,4 +1,4 @@
-# 📊 **Project Title:** Global Retail Analysis (Power BI – Superstore) 
+# 📊 Global Retail Analysis - Power BI
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f797e137-076a-41b8-b688-38c0d5519113" alt="Superstore Sales Dashboard Overview" width="1100">
