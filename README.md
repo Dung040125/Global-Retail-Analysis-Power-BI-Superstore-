@@ -73,10 +73,10 @@ This project applied **Design Thinking principles** to thoroughly understand sta
   <img src="https://github.com/user-attachments/assets/9fbe401a-3d40-4f0e-b90c-17bc99c6945b" alt="Design Thinking: Empathize - Stakeholder Map Superstore" width="950">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07e7e3ec-685e-46d9-ade2-7b338ce7567f" alt="Design Thinking: Empathize - Journey Map Superstore" width="400">
+  <img src="https://github.com/user-attachments/assets/07e7e3ec-685e-46d9-ade2-7b338ce7567f" alt="Design Thinking: Empathize - Journey Map Superstore" width="450">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60b6c305-76d4-457a-9bf7-fc6b6c304a92" alt="Design Thinking: Empathize - Journey Map Superstore" width="600">
+  <img src="https://github.com/user-attachments/assets/60b6c305-76d4-457a-9bf7-fc6b6c304a92" alt="Design Thinking: Empathize - Journey Map Superstore" width="500">
 </p>
 
 2️⃣ **Define (Point of View):** Articulated the core problem: Need for an interactive dashboard to track sales, identify trends, and make data-driven strategic decisions.
