@@ -67,7 +67,7 @@ This project applied **Design Thinking principles** to thoroughly understand sta
 
 1️⃣ **Empathize:** Understood Senior Management's challenges in viewing sales performance and their objectives for market expansion and product strategy.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1648f3d4-6378-4c12-bf96-826602368ed7" alt="Design Thinking: Empathize - Superstore" width="950">
+  <img src="https://github.com/user-attachments/assets/494069b4-8dea-4005-9eef-9e35eec785bc" alt="Design Thinking: Empathize - Superstore" width="950">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9fbe401a-3d40-4f0e-b90c-17bc99c6945b" alt="Design Thinking: Empathize - Stakeholder Map Superstore" width="950">
