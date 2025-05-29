@@ -28,7 +28,7 @@
 ### Objective
 📖 **What is this project about?**
 
-This project presents an interactive **Power BI dashboard** designed to analyze Superstore's global sales data. The primary objective is to provide **Senior Management** with crucial business insights, thereby supporting **strategic decisions related to market expansion and key product selection**. The dashboard focuses on delivering a clear understanding of sales performance, product profitability, market potential, and risks associated with product returns.
+The primary objective is to provide **Senior Management** with crucial business insights, thereby supporting **strategic decisions related to market expansion and key product selection**. The dashboard focuses on delivering a clear understanding of sales performance, product profitability, market potential, and risks associated with product returns.
 
 This project analyzes Superstore's sales data to:
 *   ✔️ Understand overall **business health** and sales trends.
