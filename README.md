@@ -81,16 +81,16 @@ This project applied **Design Thinking principles** to thoroughly understand sta
 
 2️⃣ **Define (Point of View):** Articulated the core problem: Need for an interactive dashboard to track sales, identify trends, and make data-driven strategic decisions.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e8837b2-9995-4411-bc03-17f44e451dd5" alt="Design Thinking: Define - POV Superstore" width="500">
+  <img src="https://github.com/user-attachments/assets/4e8837b2-9995-4411-bc03-17f44e451dd5" alt="Design Thinking: Define - POV Superstore" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4da45d16-db8f-4dbe-accd-7af4da960752" alt="Design Thinking: Define - HMW Questions Superstore" width="700">
+  <img src="https://github.com/user-attachments/assets/4da45d16-db8f-4dbe-accd-7af4da960752" alt="Design Thinking: Define - HMW Questions Superstore" width="600">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/104cbb88-042a-422c-92fe-cf604ee76b82" alt="Design Thinking: Define - User Needs Superstore" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c659aec-b9e7-48e3-ab0f-17a0470cb0f3" alt="Design Thinking: Define - User Needs Superstore" width="900">
+  <img src="https://github.com/user-attachments/assets/1da0783f-9664-4eae-939c-65e46a7bb9c6" alt="Design Thinking: Define - User Needs Superstore" width="900">
 </p>
 
 3️⃣ **Ideate:** Brainstormed relevant KPIs, effective visualizations, and user-friendly dashboard layouts.
