@@ -163,14 +163,29 @@ The business demonstrates a **loyal customer base** (averaging 15.75 orders/cust
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce9163af-a3c9-44c1-8252-ef900808c814" alt="Product Performance & Strategic Selection Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/b838e9c7-9558-4d14-93e9-d4c7be458274" alt="Product Performance & Strategic Selection Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
-*   **Revenue vs. Profitability:** Key distinction between top revenue-generating products (e.g., Apple Smart Phone) and **most profitable ones (e.g., Canon ImageCLASS)**.
-*   **Category Performance:** **Technology category drives high sales but also has a high return rate (~11%)**. Office Supplies are safer with lower returns but lower sales.
-*   **Sales Consistency:** Some products show more consistent sales, crucial for stable revenue forecasting.
-*   **Recommendations:** Prioritize high-profit products. Mitigate high return rates in Technology. Balance portfolio with consistent performers and high-growth items.
+* **Detailed Insights:**
+1.  **Quarterly Revenue by Category:**
+    *   All three categories (Technology, Furniture, Office Supplies) exhibit a **general upward revenue trend** from Q1 2011 to Q4 2014.
+    *   **"Technology" consistently leads in revenue**, with a strong surge from mid-2012 onwards.
+    *   Seasonality is evident, with Q4 often being strong (especially Q4/2014), while Q1 may be slower.
+
+2.  **Category Profitability & Performance (Category Profitability Bar Chart & Key Metrics Matrix):**
+    *   **"Technology":** Leads in Total Profit ($663K) and Profit Margin (14%). However, its Return Rate (6% at Category level, with some Sub-Categories like "Accessories" at 7%) needs monitoring for further optimization. "Copiers" and "Accessories" demonstrate very high profit margins (17%).
+    *   **"Office Supplies":** Second highest profit ($518K) with an impressive Profit Margin (14%), matching Technology. Its standout strength is the **lowest Return Rate (5-6% at Category level)** and the highest number of orders. "Paper" is a highlight with a 24% profit margin. "Appliances" have a higher return rate (7%) within this group.
+    *   **"Furniture":** Lowest profit ($285K) and an alarming Profit Margin (7%). **"Tables" is the most critical issue with a negative profit (-$64K) and -8% margin**, coupled with the highest return rate in the Furniture group (8%). Other Sub-Categories like "Bookcases" and "Chairs" are profitable but also have return rates needing improvement (6%).
+
+3.  **Product Portfolio Analysis (Bubble Chart):**
+    *   **"Stars" (High Profit, Good Growth):** "Copiers" and "Phones" (Technology).
+    *   **"Cash Cows" (Good Profit, Stable Growth):** "Accessories" (Technology), "Bookcases" (Furniture), "Storage" (Office Supplies).
+    *   **"Question Marks" (Decent Growth, Profitability Needs Improvement):** "Chairs" (Furniture), "Machines" (Technology).
+    *   **"Dogs" / Urgent Action Needed (Low/Negative Profit):** **"Tables" (Furniture)**. Many smaller Office Supplies Sub-Categories and "Furnishings" (Furniture) also reside in lower performance anan.
+
+*   **Key Data Story (Page 2):**
+Page 2 reveals a multi-faceted picture: **"Technology" stands out as the undisputed leader** in both revenue and profitability, with "stars" like "Copiers" and "Phones" boasting **impressive profit margins**. **"Office Supplies" emerges as an "efficiency powerhouse"**; despite a lower average order value, its **superior order volume**, high profit margin, and **extremely low return rate** contribute significantly to overall profitability. Conversely, **"Furniture" faces substantial profitability challenges**, most critically with the **"Tables" Sub-Category incurring significant losses** and having the **highest return rate** within its group. While all categories show overall revenue growth, **optimizing profitability and managing return risks**, especially for Furniture, are crucial for sustainable development.
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
