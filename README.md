@@ -189,14 +189,34 @@ This dashboard reveals a multi-faceted picture: **"Technology" stands out as the
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8744e14-2e8d-474b-8478-f5213e51e0db" alt="Market Potential & Revenue Share Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/933db2e8-ea83-4459-b1f6-45dc2d628d92" alt="Market Potential & Revenue Share Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
-*   **Regional Growth Dynamics:** Central region, despite high revenue, shows negative sales growth. **Oceania and North Asia emerge as high-potential growth markets**.
-*   **Revenue Share by Category:** Varies significantly by region, suggesting differing market demands.
-*   **Product Distribution:** Quantity-based distribution highlights regional product preferences.
-*   **Recommendations:** Retain market share in large, slowing markets. Invest in growth markets (Oceania, North Asia). Tailor regional product assortment and marketing.
+*   **Detailed Insights:**
+1.  **Regional Performance Matrix (Bubble Chart):**
+    *   **"Central":** Leads in Sales, Profit, and has good YoY Growth (~50%).
+    *   **"North," "North Asia":** Good profitability, stable growth (~45-50%).
+    *   **High Growth - Low Profit Group:** "Canada," "Southeast Asia," "EMEA," "Africa" show high Sales Growth YoY % (55-60%) but very low profits.
+    *   **Lower Performance Group:** "East," "Caribbean."
+
+2.  **Revenue Share by Region & Category:**
+    *   **"Technology"** holds a large revenue share in strong markets like Central (36.8%) and North (39.7%).
+    *   **"Furniture"** has a high revenue share in North Asia (39.6%) and Southeast Asia (35.4%).
+    *   **"Office Supplies"** contributes significantly to revenue share, highest in EMEA (34.3%), Africa (34.0%), and Central Asia (37.8%).
+
+3.  **Regional Profitability Ranking:**
+    *   "Central" ($0.31M) is the most profitable region by a significant margin.
+    *   "North" ($0.19M) and "North Asia" ($0.17M) follow.
+    *   "Caribbean" ($0.03M) and "Southeast Asia" ($0.02M) have very low profitability.
+
+4.  **Regional Product Distribution (by Quantity):**
+    *   **"Office Supplies" dominates in quantity** in many markets: **Canada (74%)**, Central (63%), EMEA (65%), Africa (67%).
+    *   "Technology" has a much lower quantity share compared to its revenue share in most regions, indicating higher product value.
+    *   The difference between revenue share and quantity share highlights the varying average product values of Categories in each Region.
+
+**Key Data Story:**
+The market performance map reveals a clear differentiation: The **"Central" region is the outstanding "star"**, leading in both revenue and profit while maintaining good growth. Developed markets like **"North" and "North Asia" are also crucial profit pillars**. A group of regions, including **"Canada," "Southeast Asia," "EMEA," and "Africa," are showing very rapid revenue growth but low profitability.** What's particularly striking about **Canada is that "Office Supplies" constitute a massive 74% of product quantity sold**, indicating a large consumer base for these items but potentially lower average order values or profit margins per Office Supplies item, contributing to the region's low overall profit despite good revenue growth. Revenue share analysis shows a different picture: "Technology" often commands a larger revenue share in many areas due to higher product value, while "Furniture" has a high revenue share in markets like North Asia and Southeast Asia.
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
