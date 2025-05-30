@@ -129,14 +129,37 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 1: Business Performance Overview**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c33c3bb6-5c54-413d-a510-f6b43053c9ae" alt="Business Performance Overview Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/a1a3338f-7b45-4fde-aa55-a17da30e9070" alt="Business Performance Overview Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
-*   **Overall Performance:** The dashboard reveals **Total Sales of 12.64M** and an Average Revenue/Order of 504.15. However, **Sales Growth YoY trend shows significant volatility**, with a notable slowdown in early 2013.
-*   **Regional Contributions:** The **Central region is a major revenue contributor** but shows signs of slowing growth.
-*   **Return Rate:** An overall low **Return Rate of 2.3%** is positive, but overtime visuals show occasional spikes.
-*   **Recommendations:** Investigate causes of YoY growth volatility and Central region's slowdown. Address return rate spikes proactively.
+* **Detailed Insights:**
+1.  **Overall KPIs:**
+    *   **Total Sales:** $12.64M (over the entire analysis period).
+    *   **Average Orders/Customer:** 15.75 – indicating high customer loyalty or repeat purchase behavior.
+    *   **Return Rate (%):** 2.3% – a relatively low overall average.
+    *   **Average Revenue/Order:** $504.99 – a good average order value.
+
+2.  **Total Sales and Sales Growth YoY:**
+    *   **Sales Trend:** Stable growth from 2011-2014.
+    *   **Seasonality:** Q4 typically shows lower sales compared to other quarters within the same year, with the exception of Q4/2014 which experienced outstanding growth. Q2 and Q3 are generally strong quarters.
+    *   **YoY Growth:** Consistently positive throughout 2011-2014, with no quarters showing negative growth.
+
+3.  **Top 5 Region Revenue:**
+    *   "Central" is the leading region, primarily driven by "Consumer" and "Corporate" segments.
+    *   "South" follows as the second highest. Other regions contribute less.
+
+4.  **Top 3 Highest Sales Product In Each Category:**
+    *   **Technology:** Smartphones lead with high sales revenue.
+    *   **Furniture:** Office/premium items perform well.
+    *   **Office Supplies:** Top products in this category have significantly lower individual sales revenue.
+
+5.  **Quarterly Return Rate (%) by Category:**
+    *   **Office Supplies:** Consistently the lowest and most stable return rate (typically below 2%).
+    *   **Furniture & Technology:** Higher and more volatile return rates, but show a significant declining trend over the years. Peaks in return rates for these categories in early 2011 and early 2012 are noteworthy.
+
+* **Key Data Story:**
+The business demonstrates a loyal customer base (averaging 15.75 orders/customer) with a healthy average order value ($504.99). From 2011 to 2014, sales consistently grew, highlighted by a significant surge in Q4/2014. The "Central" region is the primary revenue driver, with Technology and Furniture products contributing substantially. While the overall average return rate is low (2.3%), a deeper dive by category reveals that Furniture and Technology historically had higher return rates. However, a notable success is the declining trend in return rates for these two categories over the years, while Office Supplies has consistently maintained a very low return rate.
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
