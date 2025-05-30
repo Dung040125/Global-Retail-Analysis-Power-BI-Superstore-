@@ -136,9 +136,9 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 * **Detailed Insights:**
 1.  **Overall KPIs:**
     *   **Total Sales:** $12.64M (over the entire analysis period).
-    *   **Average Orders/Customer:** 15.75 – indicating high customer loyalty or repeat purchase behavior.
-    *   **Return Rate (%):** 2.3% – a relatively low overall average.
-    *   **Average Revenue/Order:** $504.99 – a good average order value.
+    *   **Average Orders/Customer:** 15.75 -> indicating high customer loyalty or repeat purchase behavior.
+    *   **Return Rate (%):** 2.3% –> a relatively low overall average.
+    *   **Average Revenue/Order:** $504.99 -> a good average order value.
 
 2.  **Total Sales and Sales Growth YoY:**
     *   **Sales Trend:** Stable growth from 2011-2014.
