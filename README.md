@@ -129,7 +129,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 1: Business Performance Overview**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62d9d836-3e5a-4182-87a0-e060fb007c20" alt="Business Performance Overview Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/c33c3bb6-5c54-413d-a510-f6b43053c9ae" alt="Business Performance Overview Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
