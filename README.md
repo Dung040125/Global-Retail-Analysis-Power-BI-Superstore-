@@ -159,7 +159,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
     *   **Furniture & Technology:** Higher and more volatile return rates, but show a significant declining trend over the years. Peaks in return rates for these categories in early 2011 and early 2012 are noteworthy.
 
 * **Key Data Story:**
-The business demonstrates a loyal customer base (averaging 15.75 orders/customer) with a healthy average order value ($504.99). From 2011 to 2014, sales consistently grew, highlighted by a significant surge in Q4/2014. The "Central" region is the primary revenue driver, with Technology and Furniture products contributing substantially. While the overall average return rate is low (2.3%), a deeper dive by category reveals that Furniture and Technology historically had higher return rates. However, a notable success is the declining trend in return rates for these two categories over the years, while Office Supplies has consistently maintained a very low return rate.
+The business demonstrates a **loyal customer base** (averaging 15.75 orders/customer) with a **healthy average order value** ($504.99). From 2011 to 2014, sales **consistently grew**, highlighted by a **significant surge in Q4/2014**. The **"Central" region is the primary revenue driver**, with Technology and Furniture products contributing substantially. While the overall average return rate is low (2.3%), a deeper dive by category reveals that Furniture and Technology historically had higher return rates. However, a notable success is the **declining trend in return rates** for these two categories over the years, while Office Supplies has consistently maintained a **very low return rate**.
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
