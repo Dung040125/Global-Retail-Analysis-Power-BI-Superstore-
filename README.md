@@ -215,7 +215,7 @@ This dashboard reveals a multi-faceted picture: **"Technology" stands out as the
     *   "Technology" has a much lower quantity share compared to its revenue share in most regions, indicating higher product value.
     *   The difference between revenue share and quantity share highlights the varying average product values of Categories in each Region.
 
-**Key Data Story:**
+* **Key Data Story:**
 The market performance map reveals a clear differentiation: The **"Central" region is the outstanding "star"**, leading in both revenue and profit while maintaining good growth. Developed markets like **"North" and "North Asia" are also crucial profit pillars**. A group of regions, including **"Canada," "Southeast Asia," "EMEA," and "Africa," are showing very rapid revenue growth but low profitability.** What's particularly striking about **Canada is that "Office Supplies" constitute a massive 74% of product quantity sold**, indicating a large consumer base for these items but potentially lower average order values or profit margins per Office Supplies item, contributing to the region's low overall profit despite good revenue growth. Revenue share analysis shows a different picture: "Technology" often commands a larger revenue share in many areas due to higher product value, while "Furniture" has a high revenue share in markets like North Asia and Southeast Asia.
 
 ### **Page 4: Return Rate & Operational Risk**
