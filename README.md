@@ -95,7 +95,7 @@ This project applied **Design Thinking principles** to thoroughly understand sta
 
 3️⃣ **Ideate:** Brainstormed relevant KPIs, effective visualizations, and user-friendly dashboard layouts.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/797192ec-35d7-41f5-ac17-e119daa403e2" alt="Design Thinking: Ideate - Brainstorming Superstore" width="800">
+  <img src="https://github.com/user-attachments/assets/eb53477d-5ed2-475a-8ecf-6f81f5d40d2a" alt="Design Thinking: Ideate - Brainstorming Superstore" width="800">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2d556571-15f9-44e1-89e0-2aed519cb2de" alt="Design Thinking: Ideate - Prioritization Superstore" width="850">
