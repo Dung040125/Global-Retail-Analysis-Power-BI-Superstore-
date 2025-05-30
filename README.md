@@ -220,14 +220,36 @@ The market performance map reveals a clear differentiation: The **"Central" regi
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7dbf5ef0-b0e7-483b-9613-c8c4ef2f73f7" alt="Return Rate & Operational Risk Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/7093fa21-7102-4080-a1a4-52350dacc4ff" alt="Return Rate & Operational Risk Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
-*   **High-Risk Categories:** **Furniture category has the highest return rate (11.87%)**. Technology also shows high returns.
-*   **Financial Impact of Returns:** High-value items (e.g., Cisco, Canon) have substantial financial impact per return.
-*   **Frequently Returned Products:** Low-value items like "Staples" incur operational costs due to frequent returns.
-*   **Recommendations:** Prioritize addressing returns for high financial impact items. Analyze root causes for frequently returned items. Implement targeted strategies for high-risk categories.
+*   **Detailed Insights:**
+1.  **Overall Return KPIs:**
+    *   **Overall Return Rate:** 2.3% - company-wide average.
+    *   **Average Order Value of Returns:** $268.53 - lower than the general average order value, suggesting lower-value items/orders are more frequently returned.
+
+2.  **Monthly Return Rate Trend:**
+    *   Return rates fluctuate monthly, with **notable peaks often occurring at the end of calendar years** or shortly thereafter, potentially linked to peak shopping seasons.
+    *   The general trend from 2011-2014 is relatively stable or shows a slight decrease.
+
+3.  **Category Risk-Reward Matrix (Sales vs. Return Rate, Sized by Profit):**
+    *   **"Technology":** Highest Sales and Profit (largest bubble size), but with a moderate-to-high Return Rate (~5.8%).
+    *   **"Furniture":** Significant Sales, considerably lower Profit (smaller bubble than Technology), and a similar moderate-to-high Return Rate (~5.8-6.0%).
+    *   **"Office Supplies":** Lowest Sales among the three, but also the lowest Return Rate (~5.0%) and decent profitability (medium bubble size).
+
+4.  **Detailed Product Return Analysis (Matrix Table):**
+    *   **Technology:** "Copiers" and "Phones" lead in both `Return Count` and `Total Value of Returns for Product`, with product-specific return rates (`Return_Rate by Product`) around 6-7%.
+    *   **Office Supplies:** Highest overall `Return Count`, but lower `Total Value of Returns` than Technology due to lower product values. "Appliances" is a Sub-Category to watch. "Paper" has a higher `Return Rate by Product` (7%) despite low return count and value.
+    *   **Furniture:** (The Matrix screenshot shows partial data; full data is needed for a complete product-specific analysis).
+
+5.  **Top Products by Financial Impact of Returns:**
+    *   High-value items like **"Samsung Smart Phone, VoIP"** (approx. $19.7K in returned value) cause the largest financial hit per return.
+    *   Low-value items with high return volumes, such as **"Staples"** (approx. $15.6K), also accumulate a significant financial impact.
+
+**Key Data Story:**
+While the company's overall average return rate is at an acceptable level **(2.3%)**, a deeper analysis reveals strategic areas of concern. The monthly return trend shows **volatility with peaks typically occurring at year-ends**, suggesting operational pressure post-holiday shopping seasons. Category-wise, **"Furniture" and "Technology" exhibit higher return rates than "Office Supplies"**. Notably, while "Technology" boasts high profitability to somewhat offset this risk (indicated by its large bubble size in the "Category Risk-Reward Matrix"), "Furniture" is more vulnerable due to its lower profit efficiency despite a similar return risk. A crucial finding is that the **financial impact of returns stems not only from high-value items but also from low-value items returned in large volumes, such as "Staples"**. This underscores the importance of managing return risks broadly to protect profitability and optimize operations.
+
 
 ---
 
