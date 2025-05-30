@@ -98,7 +98,7 @@ This project applied **Design Thinking principles** to thoroughly understand sta
   <img src="https://github.com/user-attachments/assets/797192ec-35d7-41f5-ac17-e119daa403e2" alt="Design Thinking: Ideate - Brainstorming Superstore" width="800">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd70c806-13c1-4e89-beb0-ba75543459db" alt="Design Thinking: Ideate - Prioritization Superstore" width="850">
+  <img src="https://github.com/user-attachments/assets/2d556571-15f9-44e1-89e0-2aed519cb2de" alt="Design Thinking: Ideate - Prioritization Superstore" width="850">
 </p>
 
 4️⃣ **Prototype and Review:** Developed and iteratively refined Power BI dashboard prototypes based on analytical goals and assumed stakeholder feedback.
@@ -220,7 +220,7 @@ The market performance map reveals a clear differentiation: The **"Central" regi
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7093fa21-7102-4080-a1a4-52350dacc4ff" alt="Return Rate & Operational Risk Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/c1dfd2f0-b12f-4098-8a19-640e16c4c65d" alt="Return Rate & Operational Risk Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
