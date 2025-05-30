@@ -229,9 +229,9 @@ The market performance map reveals a clear differentiation: The **"Central" regi
     *   **Overall Return Rate:** 2.3% - company-wide average.
     *   **Average Order Value of Returns:** $268.53 - lower than the general average order value, suggesting lower-value items/orders are more frequently returned.
 
-2.  **Monthly Return Rate Trend:**
-    *   Return rates fluctuate monthly, with **notable peaks often occurring at the end of calendar years** or shortly thereafter, potentially linked to peak shopping seasons.
-    *   The general trend from 2011-2014 is relatively stable or shows a slight decrease.
+2.  **Quarterly Return Rate Trend (X-axis updated to Year -> Quarter):**
+    *   Return rates fluctuate quarterly, with **notable peaks often appearing in Q2 and Q4 of multiple years** (e.g., Q2/2011, Q4/2011, Q2/2012, Q4/2012, Q4/2013, Q2/2014, Q4/2014). This may be linked to specific purchasing cycles or other seasonal factors.
+    *   The general trend from 2011-2014 appears relatively stable or shows a slight decrease after accounting for quarterly fluctuations.
 
 3.  **Category Risk-Reward Matrix (Sales vs. Return Rate, Sized by Profit):**
     *   **"Technology":** Highest Sales and Profit (largest bubble size), but with a moderate-to-high Return Rate (~5.8%).
@@ -248,8 +248,7 @@ The market performance map reveals a clear differentiation: The **"Central" regi
     *   Low-value items with high return volumes, such as **"Staples"** (approx. $15.6K), also accumulate a significant financial impact.
 
 **Key Data Story:**
-While the company's overall average return rate is at an acceptable level **(2.3%)**, a deeper analysis reveals strategic areas of concern. The monthly return trend shows **volatility with peaks typically occurring at year-ends**, suggesting operational pressure post-holiday shopping seasons. Category-wise, **"Furniture" and "Technology" exhibit higher return rates than "Office Supplies"**. Notably, while "Technology" boasts high profitability to somewhat offset this risk (indicated by its large bubble size in the "Category Risk-Reward Matrix"), "Furniture" is more vulnerable due to its lower profit efficiency despite a similar return risk. A crucial finding is that the **financial impact of returns stems not only from high-value items but also from low-value items returned in large volumes, such as "Staples"**. This underscores the importance of managing return risks broadly to protect profitability and optimize operations.
-
+While the company's overall average return rate is at an acceptable level **(2.3%)**, a deeper analysis reveals strategic areas of concern. The quarterly return trend **("Quarterly Return Rate Trend")** shows **clear volatility, with peaks typically occurring in Q2 and Q4 of several years**, suggesting seasonal factors or post-purchase cycles that need management. Category-wise, **"Furniture" and "Technology" exhibit higher return rates (around 5.8-6.0% on the Scatter Plot) than "Office Supplies" (around 5.0%)**. Notably, while "Technology" boasts high profitability (indicated by its large bubble size in the "Category Risk-Reward Matrix") to somewhat offset this risk, "Furniture" is more vulnerable due to its lower profit efficiency despite a similar return risk. A crucial finding is that the **financial impact of returns stems not only from high-value items but also from low-value items returned in large volumes, such as "Staples"**. This underscores the importance of managing return risks broadly to protect profitability and optimize operations.
 
 ---
 
