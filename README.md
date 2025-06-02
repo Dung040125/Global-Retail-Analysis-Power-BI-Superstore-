@@ -60,7 +60,7 @@ The data model for this project establishes relationships between the dimension 
 The diagram below illustrates the relationships between these tables within the Power BI environment:
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/a5f41c73-ad83-4758-a61a-111d032b5330)" alt="AdventureWorks Procurement Data Model Relationships" width="800">
+  <img src="(https://github.com/user-attachments/assets/a5f41c73-ad83-4758-a61a-111d032b5330" alt="AdventureWorks Procurement Data Model Relationships" width="800">
 </p>
 
 ---
