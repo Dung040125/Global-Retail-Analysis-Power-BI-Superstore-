@@ -127,7 +127,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 </p>
 
 📌 **Analysis & Insights:**
-The business demonstrates robust health with a **loyal customer base** (averaging 15.75 orders/customer) and a **strong average order value** ($504.99), underpinning **consistent sales growth** from 2011-2014. This upward sales trend follows a **clear seasonal pattern** (lower in H1, uplift in Q3/Q4), offering opportunities for **optimized inventory and marketing planning**.
+*   The business demonstrates robust health with a **loyal customer base** (averaging 15.75 orders/customer) and a **strong average order value** ($504.99), underpinning **consistent sales growth** from 2011-2014. This upward sales trend follows a **clear seasonal pattern** (lower in H1, uplift in Q3/Q4), offering opportunities for **optimized inventory and marketing planning**.
 
 *   #### **Primary Growth Driver:**
     The "**Central**" region, particularly fueled by "**Consumer**" and "**Corporate**" segments, is the main revenue engine.
@@ -171,7 +171,7 @@ The business demonstrates robust health with a **loyal customer base** (averagin
 </p>
 
 📌 **Analysis & Insights:**
-The regional performance map reveals a clear differentiation: **"Central" is the primary driver** for both revenue and profit ($0.31M) with stable growth. Meanwhile, a group of regions including **"Canada," "Southeast Asia," "EMEA," and "Africa" are experiencing very rapid revenue growth (55-60% YoY) but extremely low profitability**, posing a challenge for optimization strategies.
+*   The regional performance map reveals a clear differentiation: **"Central" is the primary driver** for both revenue and profit ($0.31M) with stable growth. Meanwhile, a group of regions including **"Canada," "Southeast Asia," "EMEA," and "Africa" are experiencing very rapid revenue growth (55-60% YoY) but extremely low profitability**, posing a challenge for optimization strategies.
 
 *   #### **Maximize Core Pillars:**
     *   **"Central," "North," and "North Asia"** are core markets contributing significantly to profit. **"Technology"** is a key category in "Central" and "North," while **"Furniture"** is strong in "North Asia."
@@ -196,7 +196,7 @@ The regional performance map reveals a clear differentiation: **"Central" is the
 </p>
 
 📌 **Analysis & Insights:**
-While the overall return rate is **acceptable (2.3%)**, managing **seasonal volatility (peaks in Q2, Q4)** and category-specific risks is key to protecting profitability. Notably, lower-value orders ($268.53) are returned more frequently, indicating the issue extends beyond high-ticket items.
+*   While the overall return rate is **acceptable (2.3%)**, managing **seasonal volatility (peaks in Q2, Q4)** and category-specific risks is key to protecting profitability. Notably, lower-value orders ($268.53) are returned more frequently, indicating the issue extends beyond high-ticket items.
 
 *   #### **Prioritize Risk Reduction for "Vulnerable" Categories:**
     *   **"Furniture" and "Technology"** share high return rates (around 5.8-6.0%), but **"Furniture" faces greater risk due to its lower profit margin compared to "Technology."**
