@@ -163,7 +163,7 @@ The business demonstrates a **loyal customer base** (averaging 15.75 orders/cust
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee78317c-c9b3-4344-9023-9d6446b830d6" alt="Product Performance & Strategic Selection Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/c298242c-f2b4-4671-a2aa-a6795f0e6d2e" alt="Product Performance & Strategic Selection Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -220,7 +220,7 @@ The market performance map reveals a clear differentiation: The **"Central" regi
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/043ed36a-0cc9-4d1b-8f2c-ed556a53c798" alt="Return Rate & Operational Risk Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/2134f742-092c-4a02-83c0-1201efad26f1" alt="Return Rate & Operational Risk Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
