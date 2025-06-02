@@ -55,6 +55,15 @@ This project analyzes Superstore's sales data to:
 The data model consists of three tables: the `Orders` fact table and two dimension tables: `Returns` and `People`.
 
 ---
+## 💾 Data Model
+The data model for this project establishes relationships between the dimension and fact tables listed above. This structure is crucial for enabling efficient querying and accurate analysis in Power BI.
+The diagram below illustrates the relationships between these tables within the Power BI environment:
+
+<p align="center">
+  <img src="(https://github.com/user-attachments/assets/a5f41c73-ad83-4758-a61a-111d032b5330)" alt="AdventureWorks Procurement Data Model Relationships" width="800">
+</p>
+
+---
 
 ## 🧠 Design Thinking Process
 This project applied **Design Thinking principles** to thoroughly understand stakeholder needs and define the dashboard's scope for strategic decision-making. 
