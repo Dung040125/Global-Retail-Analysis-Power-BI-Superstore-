@@ -163,7 +163,7 @@ The business demonstrates a **loyal customer base** (averaging 15.75 orders/cust
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69db3cde-7118-438d-a4f9-0c32e7d80689" alt="Product Performance & Strategic Selection Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/ee78317c-c9b3-4344-9023-9d6446b830d6" alt="Product Performance & Strategic Selection Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
