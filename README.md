@@ -93,7 +93,7 @@ This project applied **Design Thinking principles** to thoroughly understand sta
 
 3️⃣ **Ideate:** Brainstormed relevant KPIs, effective visualizations, and user-friendly dashboard layouts.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69e87eae-6466-4522-ba93-d2f6d5d70a30" alt="Design Thinking: Ideate - Brainstorming Superstore" width="600">
+  <img src="https://github.com/user-attachments/assets/69e87eae-6466-4522-ba93-d2f6d5d70a30" alt="Design Thinking: Ideate - Brainstorming Superstore" width="1000">
 </p>
 
 4️⃣ **Prototype and Review:** Developed and iteratively refined Power BI dashboard prototypes based on analytical goals and assumed stakeholder feedback.
