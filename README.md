@@ -129,7 +129,7 @@ The Superstore Sales dashboard is structured into four user-centric pages:
 
 ### **Page 1: Business Performance Overview**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1a3338f-7b45-4fde-aa55-a17da30e9070" alt="Business Performance Overview Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/3b57cf3d-ac5e-4105-a28c-2733dad21f54" alt="Business Performance Overview Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -163,7 +163,7 @@ The business demonstrates a **loyal customer base** (averaging 15.75 orders/cust
 
 ### **Page 2: Product Performance & Strategic Selection**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b838e9c7-9558-4d14-93e9-d4c7be458274" alt="Product Performance & Strategic Selection Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/160d8849-20ee-4a0c-8ef6-f2ac3ba6c71e" alt="Product Performance & Strategic Selection Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -189,7 +189,7 @@ This dashboard reveals a multi-faceted picture: **"Technology" stands out as the
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/933db2e8-ea83-4459-b1f6-45dc2d628d92" alt="Market Potential & Revenue Share Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/49e14801-ebc0-4307-9413-0bb31cf2e9c5" alt="Market Potential & Revenue Share Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
@@ -220,7 +220,7 @@ The market performance map reveals a clear differentiation: The **"Central" regi
 
 ### **Page 4: Return Rate & Operational Risk**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1dfd2f0-b12f-4098-8a19-640e16c4c65d" alt="Return Rate & Operational Risk Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/043ed36a-0cc9-4d1b-8f2c-ed556a53c798" alt="Return Rate & Operational Risk Dashboard" width="900">
 </p>
 
 📌 **Analysis & Insights:**
