@@ -179,13 +179,13 @@ The business demonstrates a **loyal customer base** (averaging 15.75 orders/cust
     *   **"Furniture":** Lowest profit ($285K) and an alarming Profit Margin (7%). **"Tables" is the most critical issue with a negative profit (-$64K) and -8% margin**, coupled with the highest return rate in the Furniture group (8%). Other Sub-Categories like "Bookcases" and "Chairs" are profitable but also have return rates needing improvement (6%).
 
 3.  **Product Portfolio Analysis (Bubble Chart):**
-    *   **"Stars" (High Profit, Good Growth):** "Copiers" and "Phones" (Technology).
-    *   **"Cash Cows" (Good Profit, Stable Growth):** "Accessories" (Technology), "Bookcases" (Furniture), "Storage" (Office Supplies).
-    *   **"Question Marks" (Decent Growth, Profitability Needs Improvement):** "Chairs" (Furniture), "Machines" (Technology).
-    *   **"Dogs" / Urgent Action Needed (Low/Negative Profit):** **"Tables" (Furniture)**. Many smaller Office Supplies Sub-Categories and "Furnishings" (Furniture) also reside in lower performance anan.
+  *   ⭐ **Stars** (High Profit, Good Growth): "Copiers" and "Phones" (Technology).
+  *   🐄 **Cash Cows** (Good Profit, Stable Growth): "Accessories" (Technology), "Bookcases" (Furniture), "Storage" (Office Supplies).
+  *   ❓ **Question Marks** (Decent Growth, Profitability Needs Improvement): "Chairs" (Furniture), "Machines" (Technology).
+  *   🐶 **Dogs** / Urgent Action Needed (Low/Negative Profit): "**Tables**" (Furniture). Many smaller Office Supplies Sub-Categories and "Furnishings" (Furniture) also reside in lower performance areas.
 
 *   **Key Data Story:**
-This dashboard reveals a multi-faceted picture: **"Technology" stands out as the undisputed leader** in both revenue and profitability, with "stars" like "Copiers" and "Phones" boasting **impressive profit margins**. **"Office Supplies" emerges as an "efficiency powerhouse"**; despite a lower average order value, its **superior order volume**, high profit margin, and **extremely low return rate** contribute significantly to overall profitability. Conversely, **"Furniture" faces substantial profitability challenges**, most critically with the **"Tables" Sub-Category incurring significant losses** and having the **highest return rate** within its group. While all categories show overall revenue growth, **optimizing profitability and managing return risks**, especially for Furniture, are crucial for sustainable development.
+    This dashboard reveals a multi-faceted picture: **Technology** stands out as the undisputed leader in both revenue and profitability, with ⭐ "Stars" like "Copiers" and "Phones" boasting impressive profit margins. **Office Supplies** emerges as an "efficiency powerhouse"; despite a lower average order value, its superior order volume, high profit margin, and **extremely low return rate** contribute significantly to overall profitability. Conversely, **Furniture** faces substantial profitability challenges, most critically with the "**Tables**" Sub-Category (a 🐶 "Dog") incurring **significant losses** and having the **highest return rate** within its group. While all categories show overall revenue growth, **optimizing profitability and managing return risks**, especially for Furniture, are crucial for sustainable development.
 
 ### **Page 3: Market Potential & Revenue Share**
 <p align="center">
